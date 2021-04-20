@@ -29,7 +29,6 @@ h2 {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
-
 .red-circle {
     width: 105px;
     height: 105px;
@@ -40,8 +39,7 @@ h2 {
     background-color: #E6563B;
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: flex-end;
+
 
 }
 .orange-circle {
@@ -54,11 +52,8 @@ h2 {
     background-color:#EB9D3A;
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: flex-start;
-
-
 }
+
 .green-circle {
     width: 105px;
     height: 105px;
@@ -69,11 +64,8 @@ h2 {
     background-color: #7CB06C;
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: flex-end;
-
-
 }
+
 .aqua-circle {
     width: 105px;
     height: 105px;
@@ -84,11 +76,7 @@ h2 {
     background-color: #00ABA9;
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: flex-start;
-
 }
-
 .small-red-circle {
     width: 18px;
     height: 18px;
@@ -98,8 +86,10 @@ h2 {
     background-color: #E6563B;
     text-align: center;
     color: black;
-
+    margin-right: 5px;
+    font-family: 'Anton', sans-serif;
 }
+
 .small-orange-circle {
     width: 18px;
     height: 18px;
@@ -109,9 +99,10 @@ h2 {
     background-color:#EB9D3A;
     text-align: center;
     color: black;
-
-
+    margin-right: 5px;
+    font-family: 'Anton', sans-serif;
 }
+
 .small-green-circle {
     width: 18px;
     height: 18px;
@@ -121,9 +112,10 @@ h2 {
     background-color: #7CB06C;
     text-align: center;
     color: black;
-
-
+    margin-right: 5px;
+    font-family: 'Anton', sans-serif;
 }
+
 .small-aqua-circle {
     width: 18px;
     height: 18px;
@@ -133,5 +125,6 @@ h2 {
     background-color: #00ABA9;
     text-align: center;
     color: black;
-
+    margin-right: 5px;
+    font-family: 'Anton', sans-serif;
 }
