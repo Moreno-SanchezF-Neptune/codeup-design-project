@@ -1,8 +1,31 @@
-body {
-    background-color: #E6E6E6;
-}
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap');
 
-h1 h2 h3 {
+body {
+    background-color: #F0F0F0;
+}
+img {
+    border-radius: 10px;
+    border: 10px solid #E6E6E6;
+}
+.abel-font {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+}
+.anton-font {
+    text-align: center;
+    color: black;
+    font-family: 'Anton', sans-serif;
+}
+h1 {
+font-size: 64px;
+    text-align: center;
+    color: black;
+    font-family: 'Anton', sans-serif;
+}
+h2 {
+    font-size: 48px;
+    color: black;
+    font-family: 'Anton', sans-serif;
     text-align: center;
 }
 
@@ -12,7 +35,7 @@ h1 h2 h3 {
     height: 105px;
     line-height: 88px;
     border-radius: 500px;
-    border: 10px solid #F0F0F0;
+    border: 10px solid #FFFF;
     font-size: 10px;
     background-color: #E6563B;
     text-align: center;
@@ -24,7 +47,7 @@ h1 h2 h3 {
     height: 105px;
     line-height: 88px;
     border-radius: 50%;
-    border: 10px solid #F0F0F0;
+    border: 10px solid #FFFF;
     font-size: 10px;
     background-color:#EB9D3A;
     text-align: center;
@@ -37,7 +60,7 @@ h1 h2 h3 {
     height: 105px;
     line-height: 88px;
     border-radius: 50%;
-    border: 10px solid #F0F0F0;
+    border: 10px solid #FFFF;
     font-size: 10px;
     background-color: #7CB06C;
     text-align: center;
@@ -50,7 +73,7 @@ h1 h2 h3 {
     height: 105px;
     line-height: 88px;
     border-radius: 50%;
-    border: 10px solid #F0F0F0;
+    border: 10px solid #FFFF;
     font-size: 10px;
     background-color: #00ABA9;
     text-align: center;
