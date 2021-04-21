@@ -3,6 +3,14 @@
 
 .nav {
     background-color: white;
+
+    /*height: 60px;*/
+    /*margin:20px 0;*/
+
+}
+.jumbotron {
+    background-color: white;
+    background-size: inherit;
 }
 
 body {
@@ -10,6 +18,13 @@ body {
 }
 p {
     margin: 40px;
+}
+.logo {
+    width: 105px;
+    height: 105px;
+    line-height: 88px;
+    border-radius: 50%;
+    border:none;
 }
 
 img {
