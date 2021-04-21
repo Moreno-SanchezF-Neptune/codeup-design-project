@@ -3,14 +3,23 @@
 
 .nav {
     background-color: white;
+    border:none;
+    width: auto;
+    height: 80px;
+    margin-top: 50px;
 
     /*height: 60px;*/
     /*margin:20px 0;*/
 
 }
 .jumbotron {
-    background-color: white;
-    background-size: inherit;
+    /*background-color: white;*/
+    /*background-size: auto;*/
+    /*width: 100%*/
+    /*border:none;*/
+    /*width: auto;*/
+    /*height: 80px;*/
+    /*margin: 10px;*/
 }
 
 body {
@@ -22,9 +31,9 @@ p {
 .logo {
     width: 105px;
     height: 105px;
-    line-height: 88px;
     border-radius: 50%;
     border:none;
+    padding: 0;
 }
 
 img {
@@ -181,6 +190,9 @@ ul {
     font-family: 'Anton', sans-serif;
 }
 
+.container{
+    justify-content: right;
+}
 
 
 /*our meta tag*/
