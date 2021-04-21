@@ -14,7 +14,7 @@ img {
     white-space: nowrap;
     max-width: 100%;
     height: auto;
-
+    margin: auto;
 }
 
 .abel-font {
@@ -45,6 +45,13 @@ h2 {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
+
+h5 {
+    font-size: 28px;
+    color: black;
+    font-family: 'Abel', sans-serif;
+}
+
 .red-circle {
     width: 105px;
     height: 105px;
