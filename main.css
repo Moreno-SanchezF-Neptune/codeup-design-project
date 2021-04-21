@@ -162,7 +162,11 @@ ul {
         display: none;
     }
     .ipad-img {
-        width: 100%;
+        display: flex;
+        justify-content: center;
     }
+    /*section {*/
+    /*    width: 100%;*/
+    /*}*/
 }
 
